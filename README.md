@@ -2,6 +2,7 @@
 
 Some code to work with the Allen Inst Mouse Brain CCF data, specifically the 10µm voxel 2017 version. See the Wiki for detailed instructions.
 
+`point_counter` branch is the latest branch that we are working on 
 
 ## Requirements
 - A computer mouse with a scroll wheel
